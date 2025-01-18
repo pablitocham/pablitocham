@@ -55,3 +55,6 @@ Si necesitas ayudas en tus proyectos o tenes dudas de como resolverlos escibime 
 <a href="https://www.linkedin.com/in/juan-pablo-chamorro-726635312/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+ ##
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pablitocham.repoName) [![GitHub followers](https://img.shields.io/github/followers/pablitocham.svg?style=social&label=Follow)](https://github.com/pablitocham?tab=followers)<br/>
