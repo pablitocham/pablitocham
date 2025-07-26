@@ -4,11 +4,9 @@
 
 Sobre Mí
 
-Desarrollador Front End, apasionado por las tecnologías y siempre en búsqueda de nuevos desafíos.
+Desarrollador Full Stack |MERN, apasionado por las tecnologías y siempre en búsqueda de nuevos desafíos.
 
-Actualmente estoy estudiando Backend en Coderhouse.
-
-Si necesitas ayudas en tus proyectos o tenes dudas de como resolverlos escibime a jpablocham@gmail.com
+Si necesitas ayudas en tus proyectos o tenes dudas de como resolverlos escibime a juanpablochamorro.dev@gmail.com
 
 ## My Skills Include
 
