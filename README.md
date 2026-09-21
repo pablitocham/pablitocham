@@ -64,7 +64,7 @@ Aplicación web desarrollada con **HTML5, CSS3 y JavaScript**, actualmente en pr
 - Validación de datos y fechas.
 - Desarrollo de interfaz responsive.
 - Automatización de procesos que anteriormente requerían cálculos manuales.
- ##
+ **[Ver proyecto](https://apprhh.netlify.app/)**
 
  ## Contacto
 
