@@ -68,5 +68,5 @@ Aplicación web desarrollada con **HTML5, CSS3 y JavaScript**, actualmente en pr
 
  ## Contacto
 
-📧 **Email:** juanpablochamorro.dev@gmail.com
+ **Email:** juanpablochamorro.dev@gmail.com
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pablitocham.repoName) [![GitHub followers](https://img.shields.io/github/followers/pablitocham.svg?style=social&label=Follow)](https://github.com/pablitocham?tab=followers)<br/>
