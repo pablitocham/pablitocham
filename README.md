@@ -49,7 +49,6 @@ También cuento con formación en tecnologías backend como **Node.js, Express.j
 <p>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
 </p>
 
 ## Proyecto destacado
